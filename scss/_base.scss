@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: Poppins;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  border: 0;
+  border-radius: $base-border-radius;
+  padding: $base-padding;
+}

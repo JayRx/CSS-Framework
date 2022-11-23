@@ -1,0 +1,38 @@
+// Theme colors
+$primary: #6452FF;
+$secundary: #469FFF;
+$error: #FF4646;
+$info: #FFB846;
+
+$colors: (
+  "primary": $primary,
+  "secundary": $secundary,
+  "error": $error,
+  "info": $info,
+  "green": #46FFA9,
+  "white": #FFFFFF,
+);
+
+$colors-hover: (
+ "primary": #6C5AFE,
+);
+
+// Text
+$thin: 200;
+$semi-bold: 600;
+$bold: 800;
+
+$font-weights: (
+  "thin": $thin,
+  "normal": 400,
+  "semi-bold": $semi-bold,
+  "bold": $bold,
+);
+
+// Spacing
+$base-padding: 0.75rem;
+$base-margin: 0.75rem;
+
+// Borders
+$base-border-thickness: 1px;
+$base-border-radius: 10px;

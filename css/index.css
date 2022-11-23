@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  margin: 0;
+}
+
+body {
+  font-family: Poppins;
+}
+
+img {
+  max-width: 100%;
+}
+
+button {
+  border: 0;
+  border-radius: 10px;
+  padding: 0.75rem;
+}
+
+.text-primary {
+  color: #6452FF;
+}
+
+.bg-primary {
+  background: #6452FF;
+}
+
+.text-secundary {
+  color: #469FFF;
+}
+
+.bg-secundary {
+  background: #469FFF;
+}
+
+.text-error {
+  color: #FF4646;
+}
+
+.bg-error {
+  background: #FF4646;
+}
+
+.text-info {
+  color: #FFB846;
+}
+
+.bg-info {
+  background: #FFB846;
+}
+
+.text-green {
+  color: #46FFA9;
+}
+
+.bg-green {
+  background: #46FFA9;
+}
+
+.text-white {
+  color: #FFFFFF;
+}
+
+.bg-white {
+  background: #FFFFFF;
+}
+
+.font-thin {
+  font-weight: 200;
+}
+
+.font-normal {
+  font-weight: 400;
+}
+
+.font-semi-bold {
+  font-weight: 600;
+}
+
+.font-bold {
+  font-weight: 800;
+}
+
+.btn-primary {
+  background: #6452FF;
+}
+.btn-primary:hover {
+  background: #6C5AFE;
+}
+
+.btn-secundary {
+  background: #469FFF;
+}
+.btn-error {
+  background: #FF4646;
+}
+.btn-info {
+  background: #FFB846;
+}
+.btn-green {
+  background: #46FFA9;
+}
+.btn-white {
+  background: #FFFFFF;
+}

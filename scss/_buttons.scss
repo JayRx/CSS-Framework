@@ -1,0 +1,9 @@
+@each $key, $val in $colors {
+  .btn-#{$key} {
+    background: $val;
+
+    &:hover {
+      background: map-get($colors-hover, $key);
+    }
+  }
+}
